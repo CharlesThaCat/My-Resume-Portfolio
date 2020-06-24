@@ -1,2 +1,5 @@
 # My-Resume-Portfolio
-Storing my resume and project portfolio
+## Storing my resume and project portfolio
+
+Portfolio up to date: 06/24/2020
+Resume up to date: 06/24/2020
